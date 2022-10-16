@@ -62,7 +62,7 @@ endmodule
 
 ```
 ## Output:
-Logic symbol & Truthtable:
+## Logic symbol & Truthtable:
 ### HALF ADDER :
 ![image](https://user-images.githubusercontent.com/94677128/196036945-743aee12-fcfe-47b3-8134-842b950cd4fd.png)
 ### FULL ADDER :
@@ -88,3 +88,4 @@ Logic symbol & Truthtable:
 
 
 ## Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
