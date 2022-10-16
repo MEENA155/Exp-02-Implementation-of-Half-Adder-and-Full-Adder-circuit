@@ -82,8 +82,7 @@ endmodule
 ### FULL ADDER :
 ![image](https://user-images.githubusercontent.com/94677128/196037280-52a776d2-d4bb-4d7e-85d9-b7f2362faf56.png)
 
-## TRUTH TABLE :
-![image](https://user-images.githubusercontent.com/94677128/196037413-98f4d30c-a832-4dc2-bed8-648177bbd5ba.png)
+
 
 
 
