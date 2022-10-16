@@ -80,6 +80,9 @@ endmodule
 ![image](https://user-images.githubusercontent.com/94677128/196037177-b83cf9e3-13b4-4222-a960-b241e312bc31.png)
 
 ### FULL ADDER :
+![image](https://user-images.githubusercontent.com/94677128/196037759-d5349848-b446-46f6-8225-8ed80e8fd09b.png)
+
+## TRUTH TABLE :
 ![image](https://user-images.githubusercontent.com/94677128/196037280-52a776d2-d4bb-4d7e-85d9-b7f2362faf56.png)
 
 
