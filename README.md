@@ -40,7 +40,7 @@ Program:
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Meena .S
 RegisterNumber:  212221240028
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+
 
 ## HALF ADDER:
 
@@ -68,7 +68,7 @@ Logic symbol & Truthtable:
 ### FULL ADDER :
 ![image](https://user-images.githubusercontent.com/94677128/196036994-f248195f-b9e9-465b-8194-5500f40d52b7.png)
 
-RTL realization
+## RTL realization
 ### HALF ADDER :
 ![image](https://user-images.githubusercontent.com/94677128/196037079-a6f339cb-76b5-4a7f-9161-bb95097b3cef.png)
 ### FULL ADDER :
